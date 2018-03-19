@@ -1,0 +1,3 @@
+[Super Awesome list of GAN papers and their code](https://github.com/zhangqianhui/AdversarialNetsPapers "Adversarial Nets Papers")
+[A tutorial on Energy based Learning](https://scholar.google.com/citations?citation_for_view=WLN3QrAAAAAJ%3A8k81kl-MbHgC&cstart=20&hl=en&pagesize=80&user=WLN3QrAAAAAJ&view_op=view_citation "Yann LeCun")
+[Generative Visual Manipulation on the Natural Image Manifold](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/)
