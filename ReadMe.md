@@ -7,7 +7,9 @@
 
 [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/pdf/1610.01945.pdf)
 
-[Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+[Wasserstein GAN](https://arxiv.org/abs/1701.07875 "Facebook")
+
+[Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/pdf/1612.07828.pdf "Apple Inc")
 
 
 ## Reinforcement Learning
@@ -22,11 +24,18 @@
 
 
 ## General
+
 [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 
 ## Adversarial Attacks
+
+[CleverHans, benchmarking tool for ML model robustness against adversarial attacks](https://github.com/tensorflow/cleverhans "Code")
 
 ## Privacy in Machine Learning
 [Deep Learning With Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
 
 [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
+
+## NLP
+
+[Fast Text](https://fasttext.cc/) [Introduction](https://research.fb.com/fasttext/ "Facebook Research") [Code](https://github.com/facebookresearch/fastText)
