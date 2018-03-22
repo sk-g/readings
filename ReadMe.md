@@ -26,16 +26,25 @@
 ## General
 
 [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
+[How to double dip into your holdout set](https://www.zillow.com/data-science/double-dip-holdout-set/)
 
 ## Adversarial Attacks
+
+[Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf)
 
 [CleverHans, benchmarking tool for ML model robustness against adversarial attacks](https://github.com/tensorflow/cleverhans "Code")
 
 ## Privacy in Machine Learning
 [Deep Learning With Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
 
+[Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data](https://arxiv.org/pdf/1610.05755.pdf)
+
 [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
+
+[The reusable holdout: Preserving validity in adaptive data analysis](https://pdfs.semanticscholar.org/25fe/96591144f4af3d8f8f79c95b37f415e5bb75.pdf)
 
 ## NLP
 
 [Fast Text](https://fasttext.cc/) [Introduction](https://research.fb.com/fasttext/ "Facebook Research") [Code](https://github.com/facebookresearch/fastText)
+
+[UNSUPERVISED NEURAL MACHINE TRANSLATION](https://arxiv.org/pdf/1710.11041.pdf "paper") [Code](https://github.com/artetxem/undreamt "Code")
