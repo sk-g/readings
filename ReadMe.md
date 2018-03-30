@@ -1,4 +1,19 @@
+## General
+
+[Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
+
+[How to double dip into your holdout set](https://www.zillow.com/data-science/double-dip-holdout-set/)
+
+[MMdnn - Microsoft framework for converting models from framework to framework](https://github.com/Microsoft/MMdnn "Code")
+
+
+## Interesting Blog Posts and Quora Answers
+
+[Colah's Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+
+
 ## Generative Adversarial Networks
+
 [Super Awesome list of GAN papers and their code](https://github.com/zhangqianhui/AdversarialNetsPapers "Adversarial Nets Papers")
 
 [A tutorial on Energy based Learning](https://scholar.google.com/citations?citation_for_view=WLN3QrAAAAAJ%3A8k81kl-MbHgC&cstart=20&hl=en&pagesize=80&user=WLN3QrAAAAAJ&view_op=view_citation "Yann LeCun")
@@ -11,6 +26,7 @@
 
 [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/pdf/1612.07828.pdf "Apple Inc")
 
+[Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf "Paper")(https://github.com/dreasysnail/textGAN_public "Code")
 
 ## Reinforcement Learning
 
@@ -18,15 +34,6 @@
 
 [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
 
-## Interesting Blog Posts and Quora Answers
-
-[Colah's Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
-
-
-## General
-
-[Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
-[How to double dip into your holdout set](https://www.zillow.com/data-science/double-dip-holdout-set/)
 
 ## Adversarial Attacks
 
