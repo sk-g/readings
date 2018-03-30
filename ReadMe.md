@@ -26,7 +26,7 @@
 
 [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/pdf/1612.07828.pdf "Apple Inc")
 
-[Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf "Paper")(https://github.com/dreasysnail/textGAN_public "Code")
+[Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf "Paper") [Code](https://github.com/dreasysnail/textGAN_public "Code")
 
 ## Reinforcement Learning
 
