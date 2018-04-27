@@ -6,6 +6,10 @@
 
 [MMdnn - Microsoft framework for converting models from framework to framework](https://github.com/Microsoft/MMdnn "Code")
 
+[Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369 "Paper") [Code](https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn "Code")
+
+[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497)
+
 
 ## Interesting Blog Posts and Quora Answers
 
@@ -13,6 +17,8 @@
 
 
 ## Generative Adversarial Networks
+
+[Great Blog Post about GANS by Nvidia](https://blogs.nvidia.com/blog/2017/05/17/generative-adversarial-network/)
 
 [Super Awesome list of GAN papers and their code](https://github.com/zhangqianhui/AdversarialNetsPapers "Adversarial Nets Papers")
 
@@ -28,6 +34,7 @@
 
 [Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf "Paper") [Code](https://github.com/dreasysnail/textGAN_public "Code")
 
+[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593 "Paper")(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix "Code")
 ## Reinforcement Learning
 
 [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
