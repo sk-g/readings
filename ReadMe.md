@@ -57,6 +57,8 @@
 
 [The reusable holdout: Preserving validity in adaptive data analysis](https://pdfs.semanticscholar.org/25fe/96591144f4af3d8f8f79c95b37f415e5bb75.pdf)
 
+[Scalable Private Learning with PATE](https://openreview.net/forum?id=rkZB1XbRZ)
+
 ## NLP
 
 [Fast Text](https://fasttext.cc/) [Introduction](https://research.fb.com/fasttext/ "Facebook Research") [Code](https://github.com/facebookresearch/fastText)
