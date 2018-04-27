@@ -15,10 +15,11 @@
 
 [Colah's Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
+[Great Blog Post about GANS by Nvidia](https://blogs.nvidia.com/blog/2017/05/17/generative-adversarial-network/)
+
 
 ## Generative Adversarial Networks
 
-[Great Blog Post about GANS by Nvidia](https://blogs.nvidia.com/blog/2017/05/17/generative-adversarial-network/)
 
 [Super Awesome list of GAN papers and their code](https://github.com/zhangqianhui/AdversarialNetsPapers "Adversarial Nets Papers")
 
