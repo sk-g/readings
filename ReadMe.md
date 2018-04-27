@@ -34,7 +34,7 @@
 
 [Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf "Paper") [Code](https://github.com/dreasysnail/textGAN_public "Code")
 
-[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593 "Paper")(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix "Code")
+[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593 "Paper")[PyTorch Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix "Code")
 ## Reinforcement Learning
 
 [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
