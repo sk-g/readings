@@ -1,4 +1,4 @@
-## General
+## Convolutional Neural Networks
 
 [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
 
@@ -10,7 +10,11 @@
 
 [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497)
 
+[Going Deeper with Convolutions](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+
+[Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 ## Interesting Blog Posts and Quora Answers
 
 [Colah's Visualizing MNIST](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
