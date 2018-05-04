@@ -1,16 +1,16 @@
-[CNNs](#Convolutional-Neural-Networks)
+[CNNs](https://github.com/sk-g/readings#convolutional-neural-networks)
 
-[Blogs,etc](#Interesting-Blog-Posts-and-Quora-Answers)
+[Blogs,etc](https://github.com/sk-g/readings#interesting-blog-posts-and-quora-answers)
 
-[GANs](#Generative-Adversarial-Networks)
+[GANs](https://github.com/sk-g/readings#generative-adversarial-networks)
 
-[NLP](#NLP)
+[NLP](https://github.com/sk-g/readings#nlp)
 
-[Reinforcement Learning](#Reinforcement-Learning)
+[Reinforcement Learning](https://github.com/sk-g/readings#reinforcement-learning)
 
-[Attacks on ML Models](#Adversarial-Attacks)
+[Attacks on ML Models](https://github.com/sk-g/readings#adversarial-attacks)
 
-[Privacy in ML](#Privacy-in-Machine-Learning)
+[Privacy in ML](https://github.com/sk-g/readings/blob/master/ReadMe.md#privacy-in-machine-learning)
 
 
 ## Convolutional Neural Networks
