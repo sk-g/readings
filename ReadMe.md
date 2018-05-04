@@ -1,10 +1,18 @@
 [CNNs](#Convolutional-Neural-Networks)
-[Blogs,etc](#Interesting-Blog-Posts-and-Quora Answers)
+
+[Blogs,etc](#Interesting-Blog-Posts-and-Quora-Answers)
+
 [GANs](#Generative-Adversarial-Networks)
+
 [NLP](#NLP)
+
 [Reinforcement Learning](#Reinforcement-Learning)
+
 [Attacks on ML Models](#Adversarial-Attacks)
+
 [Privacy in ML](#Privacy-in-Machine-Learning)
+
+
 ## Convolutional Neural Networks
 
 [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
