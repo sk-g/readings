@@ -79,8 +79,13 @@
 
 [Scalable Private Learning with PATE](https://openreview.net/forum?id=rkZB1XbRZ)
 
-## NLP
+## NLP/Language Modeling with NNs
 
 [Fast Text](https://fasttext.cc/) [Introduction](https://research.fb.com/fasttext/ "Facebook Research") [Code](https://github.com/facebookresearch/fastText)
 
 [UNSUPERVISED NEURAL MACHINE TRANSLATION](https://arxiv.org/pdf/1710.11041.pdf "paper") [Code](https://github.com/artetxem/undreamt "Code")
+[SUBWORD LANGUAGE MODELING WITH NEURAL NETWORKS](http://www.fit.vutbr.cz/~imikolov/rnnlm/char.pdf "paper")
+
+[Data Noising as Smoothing in Neural Network Language Models](https://arxiv.org/pdf/1703.02573 "paper")
+
+[Highway Networks](https://arxiv.org/pdf/1505.00387 "paper")
