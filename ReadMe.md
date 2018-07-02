@@ -1,10 +1,12 @@
+Jump To - 
+
 [CNNs](https://github.com/sk-g/readings#convolutional-neural-networks)
 
 [Blogs,etc](https://github.com/sk-g/readings#interesting-blog-posts-and-quora-answers)
 
 [GANs](https://github.com/sk-g/readings#generative-adversarial-networks)
 
-[NLP](https://github.com/sk-g/readings#nlp)
+[NLP](https://github.com/sk-g/readings#NLP/Language Modeling with NNs)
 
 [Reinforcement Learning](https://github.com/sk-g/readings#reinforcement-learning)
 
