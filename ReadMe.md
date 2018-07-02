@@ -6,7 +6,7 @@ Jump To -
 
 [GANs](https://github.com/sk-g/readings#generative-adversarial-networks)
 
-[NLP](https://github.com/sk-g/readings#NLP/Language Modeling with NNs)
+[NLP](https://github.com/sk-g/readings#NLP/Language-Modeling-with-NNs)
 
 [Reinforcement Learning](https://github.com/sk-g/readings#reinforcement-learning)
 
