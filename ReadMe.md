@@ -81,6 +81,12 @@ Jump To -
 
 [Scalable Private Learning with PATE](https://openreview.net/forum?id=rkZB1XbRZ)
 
+[Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[Introduction]](hhttps://github.com/bdol/exemplar_gans)[[Tensorflow code]](https://github.com/zhangqianhui/Exemplar_GAN_Eye_Inpainting)(CVPR2018)
+
+[Eye In-Painting with Exemplar Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1712.03999)[[Introduction]](https://github.com/bdol/exemplar_gans)[[Tensorflow code]](https://github.com/zhangqianhui/Exemplar_GAN_Eye_Inpainting)(CVPR2018)
+
+[Generative Image Inpainting with Contextual Attention] [[Paper]](https://arxiv.org/abs/1801.07892)[[Project]](http://jiahuiyu.com/deepfill)[[Demo]](http://jiahuiyu.com/deepfill)[[YouTube]](https://youtu.be/xz1ZvcdhgQ0)[[Code]](https://github.com/JiahuiYu/generative_inpainting)(CVPR2018)
+
 ## NLP/Language Modeling with NNs
 
 [Fast Text](https://fasttext.cc/) [Introduction](https://research.fb.com/fasttext/ "Facebook Research") [Code](https://github.com/facebookresearch/fastText)
